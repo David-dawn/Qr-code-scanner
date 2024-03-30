@@ -1,0 +1,45 @@
+body {
+    background-color: hsl(218, 8%, 72%);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    place-items: center;
+    font-family: Outfit, sans-serif;
+  }
+  
+  #QR-code {
+    height: 288px;
+    width: 288px;
+    border-radius: 15px;
+  }
+  
+  .container {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    height: 500px;
+    width: 320px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 10px 8px #8d9090;
+    padding: 20px;
+  }
+  
+  #title {
+    font-weight: 700;
+    font-size: 18px;
+    color: #2b3e4c;
+  }
+  
+  #message {
+    font-weight: 400;
+    font-size: 14px;
+    color: hsl(165, 7%, 55%);
+    padding-bottom: 20px;
+  }
+  
+  #title, #message {
+    margin: 10px;
+  }
