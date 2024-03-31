@@ -73,8 +73,8 @@ A QR code component built with HTML and CSS provides a simple yet effective way 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://vercel.com/david-dawns-projects/qr-code-scanner-ddrp)
+- Live Site URL:(https://qr-code-scanner-ddrp.vercel.app/)
 
 ## My process
 
@@ -188,7 +188,7 @@ I'd recommend it to anyone still learning this concept.
 ## Author
 
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Amosu David](https://qr-code-scanner-ddrp.vercel.app/)
 - Frontend Mentor - [@David-dawn](https://www.frontendmentor.io/profile/David-dawn)
 - Twitter - [@DavidAmosu3](https://x.com/DavidAmosu3?t=LJcwz3QLKb19vS9g9xTz_w&s=09)
 
