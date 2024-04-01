@@ -43,3 +43,9 @@ body {
   #title, #message {
     margin: 10px;
   }
+
+@media screen and (min-width: 1440px){
+    body{
+        font-size: 10px;
+    }
+}
